@@ -1,6 +1,10 @@
 # LCD-BackPack
 Backpack to control HD44780 compatible displays over UART or I2C.
 
+Shop: [LCD-BackPack](http://www.watterott.com/en/LCD-BackPack)
+
+![LCD-BackPack](https://raw.github.com/watterott/LCD-BackPack/master/img/lcd-backpack.jpg)
+
 
 ## Features
 * Atmel AVR ATmega328 @ 16 MHz (external resonator)
