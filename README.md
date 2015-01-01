@@ -19,4 +19,4 @@ Shop: [LCD-BackPack](http://www.watterott.com/en/LCD-BackPack)
 
 
 ## Software
-* [Arduino Firmware/Sketch](https://github.com/watterott/Arduino-Libs)
+* [Arduino Firmware/Sketch](https://github.com/watterott/Arduino-Libs/tree/master/LCD_BackPack/examples/SerLCD)
