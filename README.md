@@ -3,7 +3,7 @@ Backpack to control HD44780 compatible displays over UART or I2C.
 
 Shop: [LCD-BackPack](http://www.watterott.com/en/LCD-BackPack)
 
-![LCD-BackPack](https://raw.github.com/watterott/LCD-BackPack/master/img/lcd-backpack.jpg)
+[![LCD-BackPack](https://raw.github.com/watterott/LCD-BackPack/master/img/lcd-backpack.jpg)](http://www.watterott.com/en/LCD-BackPack)
 
 
 ## Features
