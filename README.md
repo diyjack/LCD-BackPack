@@ -1,9 +1,10 @@
 # LCD-BackPack
 Backpack to control HD44780 compatible displays over UART or I2C.
 
-Shop: [LCD-BackPack](http://www.watterott.com/en/LCD-BackPack)
-
 [![LCD-BackPack](https://raw.github.com/watterott/LCD-BackPack/master/pcb/LCD-BackPack_v11.jpg)](http://www.watterott.com/en/LCD-BackPack)
+
+## Shop
+* [LCD-BackPack](http://www.watterott.com/en/LCD-BackPack)
 
 
 ## Features
@@ -14,9 +15,6 @@ Shop: [LCD-BackPack](http://www.watterott.com/en/LCD-BackPack)
 * Compatible with [SparkFun SerLCD](https://github.com/sparkfun/Serial_Enabled_LCD_Backpack)
 
 
-## Hardware
+## Hardware and Software
 * [Schematics + Layout](https://github.com/watterott/LCD-BackPack/tree/master/pcb)
-
-
-## Software
-* [Arduino Firmware/Sketch](https://github.com/watterott/Arduino-Libs/tree/master/LCD_BackPack/examples/SerLCD)
+* [Arduino Firmware/Example](https://github.com/watterott/Arduino-Libs/tree/master/LCD_BackPack/examples/SerLCD)
